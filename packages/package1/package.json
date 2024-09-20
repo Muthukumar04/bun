@@ -1,11 +1,7 @@
 {
   "name": "package1",
-  "module": "index.ts",
-  "type": "module",
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
+  "module": "index.js",
+  "dependencies": {
+    "package2": "workspace:*"
   }
 }
