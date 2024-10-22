@@ -1,0 +1,6 @@
+{
+  "name": "build",
+  "bin": {
+    "muthu-postinstall": "./postinstall.js"
+  }
+}

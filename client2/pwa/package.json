@@ -1,0 +1,6 @@
+{
+  "name": "client2-pwa",
+  "scripts": {
+    "postinstall": "muthu-postinstall"
+  }
+}

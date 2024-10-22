@@ -1,7 +1,0 @@
-{
-  "name": "package1",
-  "module": "index.js",
-  "dependencies": {
-    "package2": "workspace:*"
-  }
-}

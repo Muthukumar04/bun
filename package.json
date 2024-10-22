@@ -1,7 +1,6 @@
 {
-    "name": "my-mono-repo",
-    "version": "1.0.0",
-    "workspaces": [
-        "packages/*"
-    ]
+  "workspaces": [
+    "*/web",
+    "build"
+  ]
 }
