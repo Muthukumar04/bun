@@ -1,6 +1,10 @@
 {
+  "name": "root",
+  "dependencies": {
+    "build": "workspace:@kissflow/build@latest"
+  },
   "workspaces": [
-    "*/pwa",
+    "*/web",
     "build"
   ]
 }
