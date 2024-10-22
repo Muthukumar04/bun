@@ -1,5 +1,5 @@
 {
-  "name": "client2-web",
+  "name": "client2",
   "scripts": {
     "postinstall": "muthu-postinstall"
   }
