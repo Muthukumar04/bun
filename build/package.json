@@ -1,6 +1,0 @@
-{
-  "name": "@kissflow/build",
-  "bin": {
-    "muthu-postinstall": "./postinstall.js"
-  }
-}

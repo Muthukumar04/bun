@@ -1,6 +1,0 @@
-{
-  "name": "client1",
-  "scripts": {
-    "postinstall": "muthu-postinstall"
-  }
-}

@@ -1,3 +1,3 @@
-export const Ob_ject = {
+export const object = {
   name: "This is a name key",
 };
