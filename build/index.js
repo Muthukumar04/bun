@@ -1,3 +1,5 @@
-export const Ob_ject = {
-  name: "This is a name key",
-};
+console.log("Logging from build");
+
+const randomFunction = () => console.log("Calling a random function");
+
+export { randomFunction };

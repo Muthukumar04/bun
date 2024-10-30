@@ -1,10 +1,10 @@
 {
   "name": "root",
   "dependencies": {
-    "build": "workspace:@kissflow/build@latest"
+    "build": "workspace:@mine/build@latest"
   },
   "workspaces": [
-    "*/web",
+    "packages/*",
     "build"
   ]
 }
