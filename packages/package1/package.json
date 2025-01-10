@@ -1,3 +1,6 @@
 {
-  "name": "package1"
+  "name": "package1",
+  "dependencies": {
+    "is-odd": "*"
+  }
 }

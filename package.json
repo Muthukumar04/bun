@@ -1,10 +1,12 @@
 {
   "name": "root",
   "dependencies": {
-    "build": "workspace:@mine/build@latest"
+    "build": "workspace:@mine/build@latest",
+    "nanoid": "^5.0.9",
+    "shortid": "^2.2.16"
   },
   "workspaces": [
-    "packages/*",
+    "packages/package2",
     "build"
   ]
 }
